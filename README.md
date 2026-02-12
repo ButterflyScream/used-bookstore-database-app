@@ -1,3 +1,4 @@
+```
 # UsedBookStore
 Group 15 COP4710 Final Project
 
@@ -53,6 +54,7 @@ The project uses a MySQL database with the following main tables:
 - `Employee`: For processing transactions.
 - 
 ## File Structure
+
 UsedBookStore/
 ├── app/
 │ ├── book_logic.py
@@ -93,5 +95,5 @@ Along with being responsible for their own tables:
 Our advanced features include:
 - Use of foreign keys and constraints
 - A well-designed interface with clear navigation
-
+```
 
